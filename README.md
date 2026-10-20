@@ -7,17 +7,10 @@ Previously, I worked as a Manager at Banaras Aluminium, where I handled producti
 My experience in operations sparked my interest in using data to solve business problems and support better decision-making.
 
 Technical Skills
-- **Data Analysis:** SQL, Python, Pandas, NumPy
-- **Data Visualization:** Power BI, Excel
-- **Database:** MySQL
-- **Other Skills:** Data Cleaning, EDA, DAX, Power Query, Business Reporting
-
-Featured Projects
-- **Global Fashion Retail Analytics** – SQL and Power BI analysis of retail performance
-- **Apollo Hospitals Appointment Analysis** – Python EDA of 75,000 appointments
-- **Tata Power EV Charging Dashboard** – Power BI dashboard for charging performance
-- **Olympic Insights Dashboard** – Power BI analysis of Olympic trends
-- **Myntra Apparel Analysis** – Excel-based retail data analysis
+- Data Analysis: SQL, Python, Pandas, NumPy
+- Data Visualization: Power BI, Excel
+- Database: MySQL
+- Other Skills: Data Cleaning, EDA, DAX, Power Query, Business Reporting
 
 Career Goal
 
