@@ -17,5 +17,5 @@ Career Goal
 Seeking opportunities as a Data Analyst or Business Intelligence Analyst where I can combine analytical skills with practical business experience.
 
 Connect With Me
-- **LinkedIn:** https://linkedin.com/in/shivjikannaujiya
-- **GitHub:** https://github.com/shivjicode
+- LinkedIn: https://linkedin.com/in/shivjikannaujiya
+- GitHub: https://github.com/shivjicode
