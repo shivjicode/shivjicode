@@ -18,4 +18,4 @@ Seeking opportunities as a Data Analyst or Business Intelligence Analyst where I
 
 Connect With Me
 - LinkedIn: https://linkedin.com/in/shivjikannaujiya
-- GitHub: https://github.com/shivjicode
+
