@@ -1,6 +1,6 @@
 Hi, my name is Shivji 
 
-Aspiring Data Analyst | SQL | Python | Power BI | Excel
+Data Analyst | SQL | Python | Power BI | Excel
 
 I'm an aspiring Data Analyst with a background in operations management and hands-on experience in data analytics projects.
 Previously, I worked as a Manager at Banaras Aluminium, where I handled production monitoring, inventory management, Excel reporting, and business operations.
